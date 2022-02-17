@@ -140,7 +140,6 @@ public final class Constants {
     public static double TTA_ERROR = 2; // Degrees of tolerance
     public static double TTA_MAX_COUNTER = 0; // Number of cycles the robot needs to be inside the tolerance
 
-
     // Turn Angle Command Constants
     //public static double
     //public static
